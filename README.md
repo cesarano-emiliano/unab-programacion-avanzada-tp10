@@ -28,3 +28,88 @@ Si lo pensamos en situaciones cotidianas, los patrones aparecen en bastantes mom
 
 3. El ciclo de una planta (Patrón State): Si estás cultivando árboles, la planta va pasando por distintas etapas: *Semilla*, *Brote*, *Maceta* y *Listo para plantar*. El comportamiento cambia según la etapa: a la semilla no le mandás la misma cantidad de agua ni el mismo sol que a la planta que ya está grande y fuerte. Su estado actual define cómo reacciona a los estímulos.
 
+
+
+## Ejercicio 4: Tabla de nombres alternativos
+
+Los patrones muchas veces figuran con otros nombres según el libro que leas o con quién estés hablando:
+
+Patrón (Nombre en el PDF)
+¿Cómo más lo llaman? 
+Clasificación
+
+ **Factory Method**
+ Método Fábrica / Constructor Virtual 
+ Creacional
+
+ **Abstract Factory** 
+ Fábrica Abstracta / Kit 
+ Creacional 
+
+ **Builder** 
+ Constructor 
+ Creacional
+
+ **Prototype** 
+ Prototipo / Clon 
+ Creacional 
+
+ **Singleton** 
+ Instancia Única 
+ Creacional
+
+ **Adapter** 
+ Adaptador / Wrapper (Envoltorio) 
+ Estructural 
+
+ **Bridge** 
+ Puente / Handle and Body 
+ Estructural 
+
+ **Composite** 
+ Objeto Compuesto 
+ Estructural
+
+ **Decorator** 
+ Decorador / Wrapper (Envoltorio) 
+ Estructural 
+
+ **Facade** 
+ Fachada 
+ Estructural 
+
+ **Proxy** 
+ Sustituto / Procurador 
+ Estructural
+
+ **Chain of Responsibility** 
+ Cadena de Responsabilidad 
+ Comportamiento 
+
+ **Command** 
+ Comando / Acción / Transacción 
+ Comportamiento 
+
+ **Iterator** 
+ Iterador / Cursor 
+ Comportamiento 
+
+ **Mediator** 
+ Mediador 
+ Comportamiento 
+
+ **Observer** 
+ Observador / Publicador-Suscriptor / Listener 
+ Comportamiento 
+
+ **State** 
+ Estado 
+ Comportamiento
+
+ **Strategy** 
+ Estrategia / Política 
+ Comportamiento 
+
+ **Template Method** 
+ Método Plantilla 
+ Comportamiento 
