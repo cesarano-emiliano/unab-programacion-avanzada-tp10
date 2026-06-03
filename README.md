@@ -35,7 +35,9 @@ Si lo pensamos en situaciones cotidianas, los patrones aparecen en bastantes mom
 Los patrones muchas veces figuran con otros nombres según el libro que leas o con quién estés hablando:
 
 Patrón (Nombre en el PDF)
+
 ¿Cómo más lo llaman? 
+
 Clasificación
 
  **Factory Method**
