@@ -34,65 +34,44 @@ Si lo pensamos en situaciones cotidianas, los patrones aparecen en bastantes mom
 
 Los patrones muchas veces figuran con otros nombres según el libro que leas o con quién estés hablando:
 
-Patrón (Nombre en el PDF)
+Patrón (Clasificación) - ¿Cómo más lo llaman? 
 
-¿Cómo más lo llaman? 
 
-Clasificación
+ **Factory Method** (Creacional) -  Método Fábrica / Constructor Virtual 
+ 
 
- **Factory Method**
- Método Fábrica / Constructor Virtual 
- Creacional
+ **Abstract Factory** (Creacional) - Fábrica Abstracta / Kit
 
- **Abstract Factory** 
- Fábrica Abstracta / Kit | Creacional |
+ **Builder** (Creacional) -  Constructor 
 
- **Builder** 
- Constructor | Creacional |
+ **Prototype** (Creacional) - Prototipo / Clon 
 
- **Prototype** 
- Prototipo / Clon | Creacional |
+ **Singleton** (Creacional) - Instancia Única 
 
- **Singleton** 
- Instancia Única | Creacional |
+ **Adapter** (Estructural) - Adaptador / Wrapper (Envoltorio) 
 
- **Adapter** 
- Adaptador / Wrapper (Envoltorio) | Estructural |
+ **Bridge** (Estructural) -  Puente / Handle and Body 
 
- **Bridge** 
- Puente / Handle and Body | Estructural |
+ **Composite** (Estructural) -  Objeto Compuesto 
 
- **Composite** 
- Objeto Compuesto | Estructural |
+ **Decorator** (Estructural) - Decorador / Wrapper (Envoltorio) 
 
- **Decorator** 
- Decorador / Wrapper (Envoltorio) | Estructural |
+ **Facade** (Estructural) - Fachada 
 
- **Facade** 
- Fachada | Estructural |
+ **Proxy** (Estructural) - Sustituto / Procurador 
 
- **Proxy** 
- Sustituto / Procurador | Estructural |
+ **Chain of Responsibility** (Comportamiento) - Cadena de Responsabilidad 
 
- **Chain of Responsibility** 
- Cadena de Responsabilidad | Comportamiento |
+ **Command** (Comportamiento) -  Comando / Acción / Transacción 
 
- **Command** 
- Comando / Acción / Transacción | Comportamiento |
+ **Iterator** (Comportamiento) - Iterador / Cursor 
 
- **Iterator** 
- Iterador / Cursor | Comportamiento |
+ **Mediator** (Comportamiento) - Mediador 
 
- **Mediator** 
- Mediador | Comportamiento |
+ **Observer** (Comportamiento) - Observador / Publicador-Suscriptor / Listener 
 
- **Observer** 
- Observador / Publicador-Suscriptor / Listener | Comportamiento |
+ **State** (Comportamiento) -  Estado 
 
- **State** 
- Estado | Comportamiento |
+ **Strategy** (Comportamiento) - Estrategia / Política 
 
- **Strategy** 
- Estrategia / Política | Comportamiento |
-
- **Template Method** Método Plantilla | Comportamiento |
+ **Template Method** (Comportamiento) - Método Plantilla 
