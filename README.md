@@ -43,73 +43,54 @@ Clasificación
  Creacional
 
  **Abstract Factory** 
- Fábrica Abstracta / Kit 
- Creacional 
+ Fábrica Abstracta / Kit | Creacional |
 
  **Builder** 
- Constructor 
- Creacional
+ Constructor | Creacional |
 
  **Prototype** 
- Prototipo / Clon 
- Creacional 
+ Prototipo / Clon | Creacional |
 
  **Singleton** 
- Instancia Única 
- Creacional
+ Instancia Única | Creacional |
 
  **Adapter** 
- Adaptador / Wrapper (Envoltorio) 
- Estructural 
+ Adaptador / Wrapper (Envoltorio) | Estructural |
 
  **Bridge** 
- Puente / Handle and Body 
- Estructural 
+ Puente / Handle and Body | Estructural |
 
  **Composite** 
- Objeto Compuesto 
- Estructural
+ Objeto Compuesto | Estructural |
 
  **Decorator** 
- Decorador / Wrapper (Envoltorio) 
- Estructural 
+ Decorador / Wrapper (Envoltorio) | Estructural |
 
  **Facade** 
- Fachada 
- Estructural 
+ Fachada | Estructural |
 
  **Proxy** 
- Sustituto / Procurador 
- Estructural
+ Sustituto / Procurador | Estructural |
 
  **Chain of Responsibility** 
- Cadena de Responsabilidad 
- Comportamiento 
+ Cadena de Responsabilidad | Comportamiento |
 
  **Command** 
- Comando / Acción / Transacción 
- Comportamiento 
+ Comando / Acción / Transacción | Comportamiento |
 
  **Iterator** 
- Iterador / Cursor 
- Comportamiento 
+ Iterador / Cursor | Comportamiento |
 
  **Mediator** 
- Mediador 
- Comportamiento 
+ Mediador | Comportamiento |
 
  **Observer** 
- Observador / Publicador-Suscriptor / Listener 
- Comportamiento 
+ Observador / Publicador-Suscriptor / Listener | Comportamiento |
 
  **State** 
- Estado 
- Comportamiento
+ Estado | Comportamiento |
 
  **Strategy** 
- Estrategia / Política 
- Comportamiento 
+ Estrategia / Política | Comportamiento |
 
- **Template Method** 
- Método Plantilla 
- Comportamiento 
+ **Template Method** Método Plantilla | Comportamiento |
