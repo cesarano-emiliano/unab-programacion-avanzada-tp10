@@ -75,3 +75,20 @@ Patrón (Clasificación) - ¿Cómo más lo llaman?
  **Strategy** (Comportamiento) - Estrategia / Política 
 
  **Template Method** (Comportamiento) - Método Plantilla 
+
+
+
+ ## Ejercicio 5: Antipatrones de diseño
+
+Un **antipatrón de diseño** es una solución común a un problema que genera consecuencias negativas para el sistema a largo plazo. 
+A diferencia de un simple error, los antipatrones suelen parecer buenas ideas al principio, pero que luego complican el mantenimiento, la escalabilidad y la legibilidad del código.
+
+
+### Ejemplos concretos:
+1. Una única clase que centraliza casi todas las responsabilidades, funciones y datos de la aplicación, dejando al resto de las clases simplemente como contenedores de datos. Rompe directamente con el principio de responsabilidad única.
+
+2. Estructuras de software con flujos de control complejos, dependencias enredadas, falta de encapsulamiento y un uso desmedido de saltos condicionales que hacen imposible seguir la lógica del programa.
+
+3. Cuando las clases que representan el modelo del negocio solo contienen propiedades (getters y setters) pero no cuentan con lógica de comportamiento, la cual termina dispersa en clases de servicio externas.
+
+4. Insertar configuraciones, credenciales, URLs o rutas de archivos fijas directamente en el código fuente en lugar de consumirlas desde variables de entorno o archivos de configuración, impidiendo desplegar la aplicación en distintos entornos fácilmente.
